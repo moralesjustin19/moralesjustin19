@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Mogrovejo</h1>
-<h3 align="center">A passionate developer aged 21 and straight from Spain, who seeks to build his knowledge and succeed in his projects with pacience</h3>
+<h3 align="center">A passionate developer aged 21 and straight from Spain, who seeks to build his knowledge and succeed in his projects with pacience👀</h3>
 
 <p align="left"> <a href="https://twitter.com/justin_mrls" target="blank"><img src="https://img.shields.io/twitter/follow/justin_mrls?logo=twitter&style=for-the-badge" alt="justin_mrls" /></a> </p>
 
